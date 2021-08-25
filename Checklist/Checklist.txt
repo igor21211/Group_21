@@ -1,1 +1,6 @@
-CheckList`
+CheckList
+
+1. Id
+2.Title ( Description)
+3. Expected result
+4. Status (Fail/Pass)
