@@ -1,0 +1,113 @@
+body{
+    
+    background-color: #d6d7d8;
+    font-family: 'Montserrat', sans-serif;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.mainsection {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin-left: 20px;
+    margin-top: 63px;
+    background: #ffff;
+}
+.sidebarsection {
+    width: 370px;
+    height: 1319px;
+    margin-top: 40px;
+    margin-left: 40px;
+ color: #ffff;
+background: #110747;
+}
+.photo {
+    padding-top: 80px;
+}
+.info {
+    width: 400px;
+    height: 230px;
+    left: 498px;
+    top: 142px;
+    padding-left: 140px;
+    
+}
+h3 {
+background: #110747;
+color: #ffff;
+}
+.Hard_skills {
+    padding-right: 30px;
+   padding-left: 40px;
+}
+.Theory {
+    padding-left: 40px;
+    padding-right: 30px;
+}
+.Familiarity {
+    padding-left: 40px;
+    padding-right: 30px;
+}
+.Soft_skills {
+    padding-left: 40px;
+    padding-right: 30px;
+}
+.Work_Exp {
+    padding-left: 40px;
+    padding-right: 30px;
+}
+.My {
+    margin-left: 40px;
+    
+}
+.Contacts {
+margin-left: 60px;
+}
+.tel {
+    margin-top: 30px;
+    display: flex;
+}
+.numb {
+    margin-top: 7px;
+    margin-left: 7px;
+}
+.my_mail {
+    display: flex;
+}
+.mail {
+    margin-top: 7px;
+    margin-left: 7px;
+}
+.instagram {
+    display: flex;
+}
+.insta {
+    margin-top: 7px;
+    margin-left: 7px;
+}
+.facebook {
+    display: flex;
+}
+.face {
+    margin-top: 7px;
+    margin-left: 7px;
+}
+.linkedin {
+    display: flex;
+}
+.link {
+    margin-top: 7px;
+    margin-left: 7px;
+}
+
+.Education {
+margin-left: 40px;
+}
+.Advance{
+    margin-left: 40px;
+ 
+}
+
