@@ -22,10 +22,11 @@ h3 {
     margin-top: 40px;
     margin-left: 40px;
  color: #ffff;
-background: #110747;
+background: #2768ca;
 }
 .photo {
     padding-top: 80px;
+    padding-left: 35px;
 }
 .info {
     width: 400px;
@@ -36,7 +37,7 @@ background: #110747;
     
 }
 h3 {
-background: #110747;
+background: #2768ca;
 color: #ffff;
 }
 .Hard_skills {
