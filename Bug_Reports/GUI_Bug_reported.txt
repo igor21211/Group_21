@@ -1,0 +1,20 @@
+Название:Кривое разположение Button "Submit".
+
+Форма регистрации http://itcareer.pythonanywhere.com/
+
+Браузер Google Chrome Версия 94.0.4606.61 (Официальная сборка), (64 бит)
+
+Серьезность - Trivial
+
+Приоритет - Low
+
+Шаги воспроизведения:
+	1.Откриваем браузер Google Chrome и переходим по ссылке http://itcareer.pythonanywhere.com/
+
+Ожидаемый результат:Корректное расположение Button "Submit"
+
+Фактический результат: Кривое разположение Button "Submit"
+
+Скриншот: Screenshot_3
+
+Автор: Qa engineer Igor Shpura.
